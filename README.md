@@ -19,16 +19,9 @@ The findings of the experimentation agree with standard literature.
 \- `output/photoelectric\_report.pdf` — compiled report PDF
 
 
-
 ## How to view the result
 
-Open: `output/photoelectric\_report.pdf`
-
-
-
-## Notes
-
-\- LaTeX source is included in `report/`. The PDF was compiled in Overleaf.
+Open: `report/compliled_output.pdf`
 
 ## Compilation note
 The PDF in `output/` was compiled using Overleaf. Local compilation may require a full LaTeX toolchain (e.g., MiKTeX + Perl/latexmk).
