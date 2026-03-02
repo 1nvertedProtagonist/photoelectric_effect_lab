@@ -6,7 +6,7 @@ The goal was to explore and confirm the dual wave-particle nature of light by va
 
 The findings of the experimentation agree with standard literature.
 
-## What’s in this repo
+## Repo structure
 
 \- `raw_data/` — raw data files
 
@@ -26,12 +26,13 @@ Open: `output/photoelectric\_report.pdf`
 
 
 
-\## Notes
+## Notes
 
 \- LaTeX source is included in `report/`. The PDF was compiled in Overleaf.
 
 ## Compilation note
 The PDF in `output/` was compiled using Overleaf. Local compilation may require a full LaTeX toolchain (e.g., MiKTeX + Perl/latexmk).
 
-
+## Note on use of AI assistance
+All the code was written by hand by me. AI assistant tools were used to accelerate the processes of debugging, documentation consultation and brainstorming
 
