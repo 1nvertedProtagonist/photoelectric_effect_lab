@@ -6,7 +6,7 @@ The goal was to explore and confirm the dual wave-particle nature of light by va
 
 The findings of the experimentation agree with standard literature.
 
-\## What’s in this repo
+## What’s in this repo
 
 \- `raw_data/` — raw data files
 
@@ -20,7 +20,7 @@ The findings of the experimentation agree with standard literature.
 
 
 
-\## How to view the result
+## How to view the result
 
 Open: `output/photoelectric\_report.pdf`
 
