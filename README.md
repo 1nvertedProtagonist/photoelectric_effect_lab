@@ -34,5 +34,5 @@ Open: `output/photoelectric\_report.pdf`
 The PDF in `output/` was compiled using Overleaf. Local compilation may require a full LaTeX toolchain (e.g., MiKTeX + Perl/latexmk).
 
 ## Note on use of AI assistance
-All the code was written by hand by me. AI assistant tools were used to accelerate the processes of debugging, documentation consultation and brainstorming
+All the code was written by hand by me. AI assistant tools were used to accelerate the processes of debugging, documentation consultation and brainstorming.
 
