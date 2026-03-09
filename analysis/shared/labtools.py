@@ -1,15 +1,5 @@
 
-##DISCLAIMER: 
-#this whole file was built to analyze individual data points in the same 
-#run/trial organized by column. Meaning of there were 100 measurements and 3 
-#runs that there would be 3 columns and 100 rows, a (100,3) numpy array. 
-#is that is not the case for the data that you wish to use this library upon, 
-#(for 3 runs of 100 measurements each you have 3 rows and 100
-# columns, a (3,100) numpy array))simply np.transpose(your_data) and the rest 
-# should be fine
-
-#this tool was designed to save you a lot of time and suffering when 
-#conducting data analysis in python, i hope it helps
+## A helper module with useful functions for my Python data analysis labs
 
 import numpy as np 
 import matplotlib.pyplot as plt
