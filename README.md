@@ -27,5 +27,8 @@ Open: `report/compliled_output.pdf`
 The PDF in `output/` was compiled using Overleaf. Local compilation may require a full LaTeX toolchain (e.g., MiKTeX + Perl/latexmk).
 
 ## Note on use of AI assistance
-All the code was written by hand by me. AI assistant tools were used to accelerate the processes of debugging, documentation consultation and brainstorming.
+Portions of the code were written with AI assistance for scaffolding and refactoring. AI assistance was also called upon to accelerate the processes of debugging, documentation consultation and brainstorming. All AI outputs were reviewed, tested, and adapted as needed by me.
+
+## Authors
+Justine Thebault-Weiser, Ari Polterovich and Bogdan-Vladimir (Me) 
 
